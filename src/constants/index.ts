@@ -3,7 +3,7 @@ import { ChainId, JSBI, Percent, Token, WETH } from '@bscswap/sdk'
 
 import { injected, walletconnect, walletlink } from '../connectors'
 
-export const ROUTER_ADDRESS = '0xd954551853F55deb4Ae31407c423e67B1621424A'
+export const ROUTER_ADDRESS = '0x7eF6e15b6894f5FAbeB1f3E122BFA285e60655Ed'
 
 // a list of tokens by chain
 type ChainTokenList = {
